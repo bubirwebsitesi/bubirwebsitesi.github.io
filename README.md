@@ -7,7 +7,7 @@ Peki sen daha neyin peşindesin?
 -------------------------------
 
 Sen de web siteleri yapıyorsun diye sanıyorsun ki bulunmaz hint kumaşını buldun. Sitenin tepesine, ne halta yaradığı kimse tarafından anlaşılamayan bir ödül banner'ını emmmbed etmek için 13 megabyte'lık parallax-ative sayfayı yaptın. 18 kiloluk jQuery dosyasını yükledin (şerefsiz sanki halden patlıcan alıyor), verdin polyfill'in gözünü, kanırttın IED'de de box-shadow çalıştı. Ne oldu? Kıçın arşa erdi mi?  
-Yanlış genç, yanlış. [Wrong diyorum bak. You were born with the wrong site / in the wrong host / with the wrong ascendancy ...](https://www.youtube.com/watch?v=oFlUCr42qzI)  
+Yanlış genç, yanlış. [Wrong diyorum bak. You were born with the wrong site / in the wrong host / with the wrong ascendancy ...](https://vid.puffyan.us/watch?v=oFlUCr42qzI)  
   
 Öyle değil, gel biz sana bu siteyi anlatalım:
 
