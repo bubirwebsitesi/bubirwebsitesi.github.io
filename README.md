@@ -1,14 +1,12 @@
-[Bu Bir Web Sitesi](https://bubirwebsitesi.github.io)
-=================
+# Bu Bir Web Sitesi
 
 Pancar motoru gibi çalışıyor ne sandın.
 
-Peki sen daha neyin peşindesin?
--------------------------------
+## Peki sen daha neyin peşindesin?
 
-Sen de web siteleri yapıyorsun diye sanıyorsun ki bulunmaz hint kumaşını buldun. Sitenin tepesine, ne halta yaradığı kimse tarafından anlaşılamayan bir ödül banner'ını emmmbed etmek için 13 megabyte'lık parallax-ative sayfayı yaptın. 18 kiloluk jQuery dosyasını yükledin (şerefsiz sanki halden patlıcan alıyor), verdin polyfill'in gözünü, kanırttın IED'de de box-shadow çalıştı. Ne oldu? Kıçın arşa erdi mi?  
-Yanlış genç, yanlış. [Wrong diyorum bak. You were born with the wrong site / in the wrong host / with the wrong ascendancy ...](https://vid.puffyan.us/watch?v=oFlUCr42qzI)  
-  
+Sen de web siteleri yapıyorsun diye sanıyorsun ki bokun eşsiz. Sitenin tepesine, ne halta yaradığı kimse tarafından anlaşılamayan bir ödül banner'ını emmmbed etmek için 13 megabyte'lık parallax-ative sayfayı yaptın. 18 kiloluk jQuery dosyasını yükledin (şerefsiz sanki halden patlıcan alıyor), verdin polyfill'in gözünü, kanırttın IED'de de box-shadow çalıştı. Ne oldu? Kıçın arşa erdi mi?
+Yanlış genç, yanlış. [Wrong diyorum bak. You were born with the wrong site / in the wrong host / with the wrong ascendancy ...](https://vid.puffyan.us/watch?v=oFlUCr42qzI)
+
 Öyle değil, gel biz sana bu siteyi anlatalım:
 
 *   Bu aptal site hafif ve hızlı yükleniyor.
@@ -19,22 +17,19 @@ Yanlış genç, yanlış. [Wrong diyorum bak. You were born with the wrong site 
 
 ### Şimdi asıl mevzu ne ?
 
-Senin web sitesi diye yaptığın şey Yazıcıoğlu İş Hanı gibi .d , bir kebapçısı eksik. Utanmasan arka planı kadife yastıklardan yapacaksın. Şimdi bu aptal web sitesine iyi bak. Acaba ne bokuma fare imleci üstüne geldiğinde orası burası ayrı oynayan bir banner’a ihtiyaç duydun? Bir de bunun için kendini yırttın üstüne aptal siteye 80 kb ekledin.
+Senin web sitesi diye yaptığın şey Süzer Plaza gibi, bir oda servisi eksik. Utanmasan arka planı altın varaklardan yapacaksın. Şimdi bu aptal web sitesine iyi bak. Acaba ne bokuma fare imleci üstüne geldiğinde orası burası ayrı oynayan bir banner’a ihtiyaç duydun? Bir de bunun için kendini yırttın üstüne aptal siteye 80 kb ekledin.
 
 Yaa aptal şey seni, öyle mal gibi bakarsın.
 
-Çok Hafif
----------
+## Çok Hafif
 
 Bu sayfanın tamamı gözüne girsin ama acıtmaz korkma. Çünkü tamamı senin o boktan Wordpress sayfandaki gradient-mesh ile yapılmış Facebook logondan daha hafıf. Yav harbiden sırf bir div'in arka plan rengini hareketli yapabilmek için 100 kb'lık jQuery UI'sini, sitenin girişinde de 100 px yüksekliğe urban dictionary'den bulduğun aptal tabirleri yazabilmek için bir fontun 7 ayrı versiyonunu yükledin değil mi? Sende azıcık bile akıl yok.
 
-Uyumlu
-------
+## Uyumlu
 
 Uyumluluk için media queries lazım sanıyordun değil mi, gerizekalı. Yok lan öyle bir şey. Uyumlu, hangi aptalın ekranından bakarsan ona uyar demek. Şimdi bu siteye ister yeri geldiğinde 27 inç ölçüsü olup 8x8 Led kadar arsız bir iMac'ten gir ister baba klasiklerden bir tamagotchi'den. Fark etmez.
 
-Çalışıyor
----------
+## Çalışıyor
 
 Şimdi eğer okur-yazarlığın varsa bu aptal siteye iyi bak. Sen bile anlayabiliyorsun çünkü burada kahrolası hiyerarşi mevcut. Bu site sen ve senin aptal tarayıcın anlayabilsin diye HTML5 etiketleri kullanıyor.
 
@@ -42,19 +37,18 @@ Aptal ekranda içerik duruyor, tavuğu buldunda kırmızı et mi istiyorsun? Sen
 
 Cross-browser'ın canı sağolsun, hadi bu aptalı (ismini anmaktan hicap duyarım) IE6'ya yükle de ne yaptığını göreyim.
 
-Bu senin daha önce hiç görmediğin bir şey yani bir web sitesi
--------------------------------------------------------------
+## Bu senin daha önce hiç görmediğin bir şey yani bir web sitesi
 
 Nasıl ki hiç sakal bırakmamış bir parlağın kendi doğasından haberi yoksa senin de bir web sitesinin ne olduğundan haberin yok. Senin gördüklerin bisiklet yakalıların her şeyi abarttıkları skeuomorphic yozlaşmaları. Bu ise efendi gibi bir web sitesi.
 
 ### Yaa gerzek sana söylüyoruz...
 
-Şimdi sen lafı orandan anladığın için sanıyorsun ki “web siten illa böyle görünsün” diyoruz. Mevzu o değil. Diyoruz ki; web siteleri ile ilgili sorun denen şeyler, sizin gibi salaklar ortamın içine ettiği için oluşuyor. Aslında web siteleri fonksiyonel, performanslı ve ulaşılabilir, siz batırmazsanız öyle de kalacak.  
+Şimdi sen lafı orandan anladığın için sanıyorsun ki “web siten illa böyle görünsün” diyoruz. Mevzu o değil. Diyoruz ki; web siteleri ile ilgili sorun denen şeyler, sizin gibi salaklar ortamın içine ettiği için oluşuyor. Aslında web siteleri fonksiyonel, performanslı ve ulaşılabilir, siz içine etmeseniz öyle de kalacak.
 **Gerçek** web sitelerine örnekler: [örnek1](https://stallman.org) [örnek2](http://textfiles.com/)
 
-> "İyi tasarım, olabildiği kadar az tasarımdır."  
+> "İyi tasarım, olabildiği kadar az tasarımdır."
 > \- bir tane Alman
 
 * * *
 
-Bu aptal sayfası ve tüm içerik [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) altında olup, [@rojen36fe6ed7d7](https://twitter.com/rojen36fe6ed7d7) ve [@rojsinanbalka](https://twitter.com/rojsinanbalka) tarafından, [kodumunwebsitesi.net](http://kodumunwebsitesi.net) yerelleştirilmesi üzerine küfürsüz hale uyarlanarak yapılmıştır.
+Bu aptal sayfası ve tüm içerik [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) altında olup, [@rojenzaman](https://github.com/rojenzaman) ve [@rosiba](https://github.com/rosiba) tarafından, [kodumunwebsitesi.net](https://web.archive.org/web/20210415213307/http://www.kodumunwebsitesi.net/) yerelleştirilmesi üzerine küfürsüz hale uyarlanarak yapılmıştır.
