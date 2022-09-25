@@ -33,7 +33,7 @@ Uyumluluk için media queries lazım sanıyordun değil mi, gerizekalı. Yok lan
 
 Şimdi eğer okur-yazarlığın varsa bu aptal siteye iyi bak. Sen bile anlayabiliyorsun çünkü burada kahrolası hiyerarşi mevcut. Bu site sen ve senin aptal tarayıcın anlayabilsin diye HTML5 etiketleri kullanıyor.
 
-Aptal ekranda içerik duruyor, tavuğu buldunda kırmızı et mi istiyorsun? Senin site dediğinde, 3 künye ile aptal dribbble hesabının linki var. Ama sen web'i yeni keşfettiğin için “vay canına jQuery ScrollTo plugin nasıl bir şeymiş ben bunu 7 ayrı ekrana dağıtayım da milleti saçma sapan tuşlara tıklatayım” diyorsun.
+Aptal ekranda içerik duruyor, tavuğu buldun da kırmızı et mi istiyorsun? Senin site dediğinde, 3 künye ile aptal dribbble hesabının linki var. Ama sen web'i yeni keşfettiğin için “vay canına jQuery ScrollTo plugin nasıl bir şeymiş ben bunu 7 ayrı ekrana dağıtayım da milleti saçma sapan tuşlara tıklatayım” diyorsun.
 
 Cross-browser'ın canı sağolsun, hadi bu aptalı (ismini anmaktan hicap duyarım) IE6'ya yükle de ne yaptığını göreyim.
 
