@@ -44,7 +44,7 @@ Nasıl ki hiç sakal bırakmamış bir parlağın kendi doğasından haberi yoks
 ### Yaa gerzek sana söylüyoruz...
 
 Şimdi sen lafı orandan anladığın için sanıyorsun ki “web siten illa böyle görünsün” diyoruz. Mevzu o değil. Diyoruz ki; web siteleri ile ilgili sorun denen şeyler, sizin gibi salaklar ortamın içine ettiği için oluşuyor. Aslında web siteleri fonksiyonel, performanslı ve ulaşılabilir, siz içine etmeseniz öyle de kalacak.
-**Gerçek** web sitelerine örnekler: [örnek1](https://stallman.org) [örnek2](http://textfiles.com/)
+**Gerçek** web sitelerine örnekler: [örnek1](https://stallman.org) [örnek2](http://textfiles.com/) [örnek3](https://eldritchdata.neocities.org/)
 
 > "İyi tasarım, olabildiği kadar az tasarımdır."
 > \- bir tane Alman
