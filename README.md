@@ -1,3 +1,6 @@
+[![Bu web sitesi no-JS Club'ın gururlu bir üyesidir.](https://no-js.club/images/no-JS.club_badge_dark.svg)](https://no-js.club)
+
+
 # Bu Bir Web Sitesi
 
 Pancar motoru gibi çalışıyor ne sandın.
